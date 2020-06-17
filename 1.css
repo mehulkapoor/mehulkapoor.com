@@ -1,0 +1,19 @@
+*{
+    font-family: 'Cormorant Garamond', 'serif';
+}
+
+title{
+    font-family: 'Cormorant Garamond', 'serif';
+}
+
+.nav-links{
+    text-decoration: none;
+    display: inline-block;
+    background-size: 5px 5px;
+    background-color: black;
+}
+
+.nav-items{
+    list-style: none;
+    display: inline-block;
+}
